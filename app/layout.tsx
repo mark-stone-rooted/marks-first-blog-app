@@ -1,5 +1,6 @@
-import "../styles/globals.css";
-
+import "../styles/globals.css"
+import 'tailwindcss/tailwind.css'
+ 
 export default function RootLayout({
   children,
 }: {
